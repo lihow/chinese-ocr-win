@@ -1,0 +1,4 @@
+*.h5
+ctpn/models
+train/pretrain-models
+crnn/samples
