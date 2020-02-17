@@ -4,8 +4,7 @@
 按照setup-win-cpu.txt逐行在cmd下执行
 
 ### 模型文件  
-链接：https://pan.baidu.com/s/1EIK-W3Z0Dp_CWK8FtQLivw 
-提取码：jijl 
+链接:https://pan.baidu.com/s/1GRwIvEDGM4K1SleoYbV2Lw 提取码:sbqm
 
 ### 测试
 将所需要的单个文件放入test文件夹下
